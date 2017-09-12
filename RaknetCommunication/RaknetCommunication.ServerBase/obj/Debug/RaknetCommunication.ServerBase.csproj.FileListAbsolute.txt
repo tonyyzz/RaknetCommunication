@@ -1,0 +1,5 @@
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ServerBase\bin\Debug\RaknetCommunication.ServerBase.dll
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ServerBase\bin\Debug\RaknetCommunication.ServerBase.pdb
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ServerBase\obj\Debug\RaknetCommunication.ServerBase.csprojResolveAssemblyReference.cache
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ServerBase\obj\Debug\RaknetCommunication.ServerBase.dll
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ServerBase\obj\Debug\RaknetCommunication.ServerBase.pdb
