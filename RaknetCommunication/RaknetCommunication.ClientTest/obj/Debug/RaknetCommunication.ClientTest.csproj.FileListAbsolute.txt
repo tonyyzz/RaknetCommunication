@@ -1,0 +1,5 @@
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ClientTest\bin\Debug\RaknetCommunication.ClientTest.exe.config
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ClientTest\bin\Debug\RaknetCommunication.ClientTest.exe
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ClientTest\bin\Debug\RaknetCommunication.ClientTest.pdb
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ClientTest\obj\Debug\RaknetCommunication.ClientTest.exe
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.ClientTest\obj\Debug\RaknetCommunication.ClientTest.pdb
