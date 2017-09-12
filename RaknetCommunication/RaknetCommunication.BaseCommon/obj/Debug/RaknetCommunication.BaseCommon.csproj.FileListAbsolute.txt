@@ -1,0 +1,4 @@
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.BaseCommon\bin\Debug\RaknetCommunication.BaseCommon.dll
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.BaseCommon\bin\Debug\RaknetCommunication.BaseCommon.pdb
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.BaseCommon\obj\Debug\RaknetCommunication.BaseCommon.dll
+E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.BaseCommon\obj\Debug\RaknetCommunication.BaseCommon.pdb
