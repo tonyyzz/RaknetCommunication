@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.SwigRaknetCS", "RaknetCommunication.SwigRaknetCS\RaknetCommunication.SwigRaknetCS.csproj", "{C1FB90EA-8DE1-43D1-91F0-A57673866B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.BaseCommon", "RaknetCommunication.BaseCommon\RaknetCommunication.BaseCommon.csproj", "{8D3EEF90-3714-49BD-A835-67F3E9095BDD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.ServerHall", "RaknetCommunication.ServerHall\RaknetCommunication.ServerHall.csproj", "{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.Model", "RaknetCommunication.Model\RaknetCommunication.Model.csproj", "{D3B82BAD-3D02-44E3-8C70-7DC6C0012E8D}"
@@ -15,19 +13,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.Reposit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.Service", "RaknetCommunication.Service\RaknetCommunication.Service.csproj", "{547F3612-01CB-419B-9353-F9825EC51835}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_BaseCommon", "5_BaseCommon", "{84994A9F-4EEB-47DB-A520-F7C7763F45D8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_SwigRaknetCS", "2_SwigRaknetCS", "{7531C5ED-E5FB-4EEC-A386-92F15F01D38C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_SwigRaknetCS", "4_SwigRaknetCS", "{7531C5ED-E5FB-4EEC-A386-92F15F01D38C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_Server", "6_Server", "{9FD3E0A3-1407-444D-92C9-5BE5F9FD3BFD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.ServerBase", "RaknetCommunication.ServerBase\RaknetCommunication.ServerBase.csproj", "{B4966944-CB2E-402E-90CF-DE27772717E9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Server", "4_Server", "{9FD3E0A3-1407-444D-92C9-5BE5F9FD3BFD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_ThreeLayer", "1_ThreeLayer", "{245A37ED-7AF9-4575-9088-EB40A2068F71}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_Client", "7_Client", "{129BCFC6-819E-4093-A48D-DEFA612AA5A8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_Client", "5_Client", "{129BCFC6-819E-4093-A48D-DEFA612AA5A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.ClientTest", "RaknetCommunication.ClientTest\RaknetCommunication.ClientTest.csproj", "{50D29328-A1EE-4CF9-A0EE-13560CCD1435}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_BaseCommon", "3_BaseCommon", "{F184FD42-7B68-460E-8D09-CF36F0F7B935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaknetCommunication.BaseCommon", "RaknetCommunication.BaseCommon\RaknetCommunication.BaseCommon.csproj", "{917883B1-F8D7-4EAB-B353-7BB4630AA51B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +37,6 @@ Global
 		{C1FB90EA-8DE1-43D1-91F0-A57673866B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1FB90EA-8DE1-43D1-91F0-A57673866B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1FB90EA-8DE1-43D1-91F0-A57673866B73}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D3EEF90-3714-49BD-A835-67F3E9095BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D3EEF90-3714-49BD-A835-67F3E9095BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D3EEF90-3714-49BD-A835-67F3E9095BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D3EEF90-3714-49BD-A835-67F3E9095BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,26 +53,25 @@ Global
 		{547F3612-01CB-419B-9353-F9825EC51835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{547F3612-01CB-419B-9353-F9825EC51835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{547F3612-01CB-419B-9353-F9825EC51835}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4966944-CB2E-402E-90CF-DE27772717E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4966944-CB2E-402E-90CF-DE27772717E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4966944-CB2E-402E-90CF-DE27772717E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4966944-CB2E-402E-90CF-DE27772717E9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{50D29328-A1EE-4CF9-A0EE-13560CCD1435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{50D29328-A1EE-4CF9-A0EE-13560CCD1435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D29328-A1EE-4CF9-A0EE-13560CCD1435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D29328-A1EE-4CF9-A0EE-13560CCD1435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917883B1-F8D7-4EAB-B353-7BB4630AA51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917883B1-F8D7-4EAB-B353-7BB4630AA51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917883B1-F8D7-4EAB-B353-7BB4630AA51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917883B1-F8D7-4EAB-B353-7BB4630AA51B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C1FB90EA-8DE1-43D1-91F0-A57673866B73} = {7531C5ED-E5FB-4EEC-A386-92F15F01D38C}
-		{8D3EEF90-3714-49BD-A835-67F3E9095BDD} = {84994A9F-4EEB-47DB-A520-F7C7763F45D8}
 		{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332} = {9FD3E0A3-1407-444D-92C9-5BE5F9FD3BFD}
 		{D3B82BAD-3D02-44E3-8C70-7DC6C0012E8D} = {245A37ED-7AF9-4575-9088-EB40A2068F71}
 		{7EE33711-B1A5-4B30-977F-E3702DD8610E} = {245A37ED-7AF9-4575-9088-EB40A2068F71}
 		{547F3612-01CB-419B-9353-F9825EC51835} = {245A37ED-7AF9-4575-9088-EB40A2068F71}
-		{B4966944-CB2E-402E-90CF-DE27772717E9} = {9FD3E0A3-1407-444D-92C9-5BE5F9FD3BFD}
 		{50D29328-A1EE-4CF9-A0EE-13560CCD1435} = {129BCFC6-819E-4093-A48D-DEFA612AA5A8}
+		{917883B1-F8D7-4EAB-B353-7BB4630AA51B} = {F184FD42-7B68-460E-8D09-CF36F0F7B935}
 	EndGlobalSection
 EndGlobal

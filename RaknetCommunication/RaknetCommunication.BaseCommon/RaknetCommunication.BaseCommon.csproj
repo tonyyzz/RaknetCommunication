@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8D3EEF90-3714-49BD-A835-67F3E9095BDD}</ProjectGuid>
+    <ProjectGuid>{917883B1-F8D7-4EAB-B353-7BB4630AA51B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RaknetCommunication.BaseCommon</RootNamespace>
