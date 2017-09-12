@@ -1,4 +1,0 @@
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.SwigRaknetCS\bin\Debug\RaknetCommunication.SwigRaknetCS.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.SwigRaknetCS\bin\Debug\RaknetCommunication.SwigRaknetCS.pdb
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.SwigRaknetCS\obj\Debug\RaknetCommunication.SwigRaknetCS.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.SwigRaknetCS\obj\Debug\RaknetCommunication.SwigRaknetCS.pdb

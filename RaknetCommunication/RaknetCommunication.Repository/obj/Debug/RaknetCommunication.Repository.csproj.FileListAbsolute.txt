@@ -1,7 +1,0 @@
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\bin\Debug\RaknetCommunication.Repository.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\bin\Debug\RaknetCommunication.Repository.pdb
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\bin\Debug\RaknetCommunication.Model.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\bin\Debug\RaknetCommunication.Model.pdb
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\obj\Debug\RaknetCommunication.Repository.csprojResolveAssemblyReference.cache
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\obj\Debug\RaknetCommunication.Repository.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Repository\obj\Debug\RaknetCommunication.Repository.pdb

@@ -1,4 +1,0 @@
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Model\bin\Debug\RaknetCommunication.Model.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Model\bin\Debug\RaknetCommunication.Model.pdb
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Model\obj\Debug\RaknetCommunication.Model.dll
-E:\code\RaknetCommunication\RaknetCommunication\RaknetCommunication.Model\obj\Debug\RaknetCommunication.Model.pdb
