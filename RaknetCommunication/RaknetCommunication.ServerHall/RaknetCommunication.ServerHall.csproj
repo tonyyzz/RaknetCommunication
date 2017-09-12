@@ -7,7 +7,7 @@
     <ProjectGuid>{C2F23D9D-7EE3-4BA3-A38D-AF8C1FD06332}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RaknetCommunication.ServerHall</RootNamespace>
+    <RootNamespace>ServerHall</RootNamespace>
     <AssemblyName>RaknetCommunication.ServerHall</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,14 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="package\account\PlayerLoginPacket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RakPeerInterfaceTest.cs" />
+    <Compile Include="_RegisterPackage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RaknetCommunication.BaseCommon\RaknetCommunication.BaseCommon.csproj">
+      <Project>{917883b1-f8d7-4eab-b353-7bb4630aa51b}</Project>
+      <Name>RaknetCommunication.BaseCommon</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RaknetCommunication.Model\RaknetCommunication.Model.csproj">
       <Project>{d3b82bad-3d02-44e3-8c70-7dc6c0012e8d}</Project>
       <Name>RaknetCommunication.Model</Name>

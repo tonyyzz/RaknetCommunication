@@ -7,7 +7,7 @@
     <ProjectGuid>{7EE33711-B1A5-4B30-977F-E3702DD8610E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RaknetCommunication.Repository</RootNamespace>
+    <RootNamespace>DAL</RootNamespace>
     <AssemblyName>RaknetCommunication.Repository</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -7,7 +7,7 @@
     <ProjectGuid>{D3B82BAD-3D02-44E3-8C70-7DC6C0012E8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RaknetCommunication.Model</RootNamespace>
+    <RootNamespace>Model</RootNamespace>
     <AssemblyName>RaknetCommunication.Model</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

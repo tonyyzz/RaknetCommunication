@@ -7,7 +7,7 @@
     <ProjectGuid>{917883B1-F8D7-4EAB-B353-7BB4630AA51B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RaknetCommunication.BaseCommon</RootNamespace>
+    <RootNamespace>BaseCommon</RootNamespace>
     <AssemblyName>RaknetCommunication.BaseCommon</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -40,7 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasePlayer.cs" />
+    <Compile Include="net\Package.cs" />
+    <Compile Include="package\PackageCommand.cs" />
+    <Compile Include="package\PackageManage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="net\Session.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
