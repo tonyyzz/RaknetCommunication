@@ -167,6 +167,7 @@
     <Compile Include="SwigFiles\uint24_t.cs" />
     <Compile Include="SwigFiles\UnsignedIntPointer.cs" />
     <Compile Include="SwigFiles\UnsignedShortPointer.cs" />
+    <Compile Include="SwigRaknetCSPreInit.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
